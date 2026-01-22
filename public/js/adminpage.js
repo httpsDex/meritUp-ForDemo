@@ -1,8 +1,8 @@
 // ====================== ADMIN PAGE JAVASCRIPT ======================
 // Main js for adminpage
-const apiBaseUrl = "http://localhost:1804";
+// const apiBaseUrl = "http://localhost:1804";
 // const apiBaseUrl = "https://meritup-server.onrender.com";
-// const apiBaseUrl = "https://edited-fif3.onrender.com";
+const apiBaseUrl = "https://edited-fif3.onrender.com";
 
 
 document.addEventListener("DOMContentLoaded", () => {
@@ -5024,4 +5024,5 @@ document.addEventListener("DOMContentLoaded", function() {
             });
         }
     });
+
 });
